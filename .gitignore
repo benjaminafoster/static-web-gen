@@ -1,6 +1,7 @@
 # directory exclusions
 venv/
 __pycache__/
+.vscode/
 
 # file exclusions
 requirements.txt
